@@ -1,0 +1,36 @@
+:root{
+    --orange:#ED6A5A;
+    --yellow:#F4F1BB;
+    --green:#9BC1BC;
+    --grey:#5D576B;
+    --white:#FFFFFF;
+    --black:#000;
+}
+.section-1-1{
+    background-color: var(--grey);
+    color: var(--white);
+}
+
+.section-2{
+    background-color: var(--orange);
+    color: var(--white);
+}
+.section-3{
+    background-color: var(--yellow);
+}
+.section-3-2{
+    background-color: var(--green);
+}
+.section-3-1 img{
+    width: auto;
+    height: 100px;
+}
+.section-3-2-1 img ,.section-3-2-2 img,.section-3-2-3 img,.section-3-2-4 img{
+    width: auto;
+    height: 50px;
+}
+
+.section-3-2-1 a ,.section-3-2-2 a,.section-3-2-3 a,.section-3-2-4 a{
+    text-decoration: none;
+    color: white;
+}
